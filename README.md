@@ -43,4 +43,4 @@ Bu repo'yu kullanarak eğitim serisini takip edebilir ve öğrendiklerinizi uygu
 
 1. **Repoyu Klonlayın:**
    ```bash
-   git clone https://github.com/seymatopuz1/csharp-egitim-serisi.git
+   git clone https://github.com/seymatopuz1/CSharpEgitimKampi.git
