@@ -1,6 +1,6 @@
 # C# Eğitim Serisi
 
-Bu repo, [YouTube C# Eğitim Serisi](https://www.youtube.com/watch?v=oev5wH-_XCI&list=PLKnjBHu2xXNPmFMvGKVHA_ijjrgUyNIXr) Murat Yücedağ ile birlikte ilerlemekte olduğum C# programlama dilini öğrenme sürecimi içermektedir. Seri boyunca C# dilinin temelinden ileri seviye konularına kadar geniş bir yelpazede bilgi edineceksiniz. Her bir video için örnek kodlar, notlar ve uygulamalar bu repo'da paylaşılmaktadır.
+Bu repo, [YouTube C# Eğitim Serisi](https://www.youtube.com/watch?v=oev5wH-_XCI&list=PLKnjBHu2xXNPmFMvGKVHA_ijjrgUyNIXr) Murat Yücedağ ile birlikte ilerlemekte olduğum C# programlama dilini öğrenme sürecimi içermektedir. Seri boyunca C# dilinin temelinden 201 konularına kadar geniş bir yelpazede bilgi edineceksiniz. Her bir video için örnek kodlar, notlar ve uygulamalar bu repo'da paylaşılmaktadır.
 
 ---
 
@@ -22,20 +22,6 @@ Bu eğitim serisi, C# programlama dilini sıfırdan öğrenmek isteyenler için 
      - Sınıflar (Classes) ve nesneler (Objects).
      - Kalıtım (Inheritance), polimorfizm (Polymorphism), encapsulation ve abstraction.
    - Hata yönetimi (Exception handling).
-
-### 3. **İleri Seviye Konular**
-   - LINQ (Language Integrated Query) kullanımı.
-   - Dosya işlemleri (File I/O).
-   - Delegates ve Events.
-   - Asenkron programlama (Async/Await).
-   - Entity Framework ile veritabanı işlemleri.
-
-### 4. **Gerçek Dünya Uygulamaları**
-   - Konsol uygulamaları geliştirme.
-   - Windows Forms ile masaüstü uygulamaları.
-   - ASP.NET Core ile web uygulamalarına giriş.
-
----
 
 ## 🛠️ Nasıl Kullanılır?
 
